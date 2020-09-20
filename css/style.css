@@ -1,4 +1,21 @@
 .d-block
 {
-    height: 400px;
+    height: 400px;   
+}
+.list-group
+{
+    width: 300px;
+}
+.wedding-pictures
+{
+    margin-bottom: 10px;
+   
+}
+.wedding-pictures img
+{
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+
+    
 }
